@@ -1,4 +1,4 @@
-/*
+
 // 1. Print sum of two numbers.
 #include <stdio.h>
 int main(){
@@ -333,7 +333,7 @@ int main() {
     return 0;
 }
 
-Relational opertors--------------------------------
+  //Relational opertors--------------------------------
 //21. Program to check whether two numbers are equal.
 #include <stdio.h>
 
@@ -600,5 +600,5 @@ int main(){
     scanf("%d", &maths);
     printf("Passed: %d", physics>33 && chemistry>33 && maths>33);
     return 0;
-}*/
+}
 // 40
